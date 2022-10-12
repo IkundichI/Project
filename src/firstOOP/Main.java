@@ -9,7 +9,5 @@ public class Main  {
          p.sayWhoAreYou();
          p.sayYourAge();
 
-
-
     }
 }

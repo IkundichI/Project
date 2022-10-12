@@ -6,11 +6,11 @@ public class Person {
     public static int age;
 
     public void sayWhoAreYou() {
-        System.out.println("Меня зовут " + firstName + " " + secondName);
+        System.out.println("My name is " + firstName + " " + secondName);
     }
 
     public void sayYourAge() {
-        System.out.println("Мне " + age + " лет");
+        System.out.println("I'am " + age + " year old");
     }
 
 }
